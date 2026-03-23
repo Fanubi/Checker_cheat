@@ -87,13 +87,6 @@ Every NirSoft tool has two launch options:
 
 ---
 
-## Building from source
-
-1. Install [Python 3](https://python.org/downloads) — check **"Add Python to PATH"**
-2. Place `STM_3.0_bundle.py` and `build_exe.bat` in the same folder
-3. Run `build_exe.bat`
-4. Output: `dist\STM_3.0.exe`
-
 The resulting `.exe` is fully self-contained — no external files or folders required.
 
 ---
